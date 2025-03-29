@@ -1,4 +1,3 @@
-[include mmu/base/*.cfg]
 
 # host MCU service is preinstalled and ready to use with:
 [mcu CB1]
